@@ -40,5 +40,15 @@
 📡 **Agriculture & Energy** – Supporting weather-sensitive industries.  
 🛰 **Aviation & Logistics** – Enhancing operational planning with accurate forecasts.  
 
-## 📜 Citation  
-If you use FuXi in your research or projects, please cite:  
+
+## 🤝 Contributing  
+We welcome contributions! If you're interested in improving **FuXi**, feel free to:  
+- Submit **bug reports** or **feature requests** via [GitHub Issues](#).  
+- Fork the repo and create a **pull request (PR)** with your enhancements.  
+
+## 📬 Contact  
+For any queries, reach out at **[piyushamkj@gmail.com]** or open a GitHub issue.  
+
+---
+
+🌟 **Star this repo if you find it useful!** ⭐  
